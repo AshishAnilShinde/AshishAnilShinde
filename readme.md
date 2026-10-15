@@ -14,8 +14,6 @@ I work at **Wipro PARI**, where I analyze machine logs, build Excel trackers, an
 
 ## 📁 Featured Projects
 - 🗄️ **[SQL Data Warehouse (ETL Pipeline)](https://github.com/AshishAnilShinde/sql-data-warehouse-project-01)**: Designed a data warehouse using Medallion architecture (Bronze, Silver, Gold layers). Loaded raw source data, cleaned and transformed it with SQL, and modeled a star schema for analytics.
-- 🛒 **[Blinkit Sales Analysis](link)**: Power BI dashboard on sales performance
-- ☕ **[Coffee Sales Dashboard](link)**: Excel dashboard with KPIs and trends
 
 # 💻 Tech Stack
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
